@@ -7,7 +7,7 @@ import java.util.List;
 
 public class ArrayCh {
 
-    
+ // A simple String split and replace processing to new Arrays, then sum those who match indexes
     public static void main(String[] args) {
         //Changeable string array numbers
         String[] list ={"[5, 2, 3,5,6,4,2,2]","[2, 2, 3, 10, 6,15,12,3,4,5,6]"}; 
